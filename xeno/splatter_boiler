@@ -1,0 +1,88 @@
+<!-- It's not necessary to follow this format, as long as you provide a coherent and structured document -->
+
+## Abstract
+Splatter boiler is a boiler strain that adopts a more multipurpose role, being able to be used offensively and defensively. Boilers are known to be more or less 
+defensive/sieging caste. Splatter is meant to bridge the line between defensive and offensive by offering a combination between
+the railgun boiler and the forgotten about acid splatter premoba boiler offering both an assasination attack and a decent ranged AoE attack.
+
+
+<!-- An abstract is a short blurb, about a paragraph or two, succinctly describing your feature. This should mostly be "why", but can include "what". -->
+
+## Goals
+1. Splatter is a generel purpose strain. It's abilities should be effective in both defense at offense at the price of not being strong at both.
+2. Should fill in a new niche and essentially be a souped up spitter
+3. Jack of all trades, master of none. This should be kept in mind when making a general purpose strain like this. It trades power for unmatched versatility.
+
+<!-- This is a numbered list clearly detailing your goals for the feature. As per usual, this should be a mixture of both why and what. -->
+
+## Non-goals
+1. Powerful in sieging/defense/offense. Like said in the goals, it's a jack of all trades, master of none. It's defensive power shouldn't be significantly better
+than its offensive power, visa versa.
+
+2. Be overpowered. We don't want this to be frustrating to fight against.
+
+3. Replace defualt boiler. We will not have this replace default boiler as it still has its place. Clear limitations shall be implemented to prevent this.
+
+
+<!-- Just like goals, but the opposite! Every feature has boundaries it won't step over. These should be written as if they start with "We will not...". -->
+
+## Content
+
+Acid splatter will gain a minor level of armor and health buffs compared to base. This allows it to attack without being extremely squishy and not be limited to defense
+like base boiler.
+
+Ability 1: Acid Splatter
+This is a projectile attack with a small windup, meant to be its primary AoE attack ability. It is intended to be the primary general purpose attack as it can
+be used both defensively and offensively thanks to its small windup and very little warning for marines. However, unlike base, it is not powerful enough to stop an entire
+push and just does damage to a group of marines via acid shrapnel. It is also not going to be very good at sieging either.
+
+Ability 2: Acid Shot
+This is a telegraphed projectile attack with a small warning period before impacting with big damage. This is akin to the Railgun boiler of old. Acid shot is meant to compliment
+acid splatter in defense while also filling the sieging gap that acid splatter leaves. With this ability, the boiler can assasinate target and make specific holes in the cadeline
+
+Ability 3: Slime spray.
+Sprays neuro slime (see globber) instead of acid. Meant as a close ranged emergency defense ability and can help with capping aswell.
+
+Ability 4: Zoom
+ditto. Allows ranged attack. Since Splatter wont be nearly as tough as other frontline T3s, this gives it some safety while firing.
+<!-- Now's where you get into clear detail about everything your feature does. **You should still be explaining 'why' things are that way, *as* you describe what.** Be as detailed as possible. -->
+
+## Alternatives
+Good alternatives:
+
+Bringing back projectile boiler - This can still be added as an alternative flavor to boiler. It is much more different than it and can can still be implemented as a strain.
+
+Globber boiler. This is more or less meant to compliment globber, being better at offense and worse at defense than it.
+
+Bad alternatives:
+
+"Just replace normal boiler" - Normal boiler still has it's purpose, with it's powerful abilities to stop the entire marine push.
+
+"Just replace trapper" - While echoing some of the general purpose aspects of trapper, it lacks serious sieging power that trapper has and isn't designed to replace it
+unlike globber.
+
+<!-- Provide potential alternatives to your feature, either ones that align with your design values, or ones that don't that you suspect will be suggested. If you are including the latter, make sure to explain why you didn't choose that. -->
+
+## Potential Changes
+
+Thing that could go wrong - Splatter is too robust defensively
+
+How to fix - Nerfs to zoom distance or making zoom c/d higher/unzooming after every attack. This would force it to reduce its firerate on the defensive and
+force it to more riskier attacks while defending. Do the opposite if too weak in this department essentially.
+
+Thing that could go wrong - Splatter is too robust offensively
+
+How to fix - Adding a higher warmup to Acid Splatter or Acid shot. Either that or adding telegraphing to Acid Splatter, but that would be a "nuclear option"
+ Do the opposite if too weak in this department essentially.
+
+Thing that could go wrong - Splatter is too robust at sieging
+
+How to fix - Reducing Splatter cade damage.  Do the opposite if too weak in this department essentially.
+
+Thing that could go wrong - Splatter is too weak in general and never used.
+
+How to fix - Increasing damage overall. Reworking abilities to add a neuro splatter aswell.
+
+
+
+<!-- Most of the time you're not going to get the best design first try. It helps to try your best to predict what *could* go wrong, and suggest alternatives that can be taken, without sacrificing your design. -->
