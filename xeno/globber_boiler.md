@@ -30,7 +30,7 @@ It's true purpose is to replace Trapper with much more challenging gameplay, whi
 
 <!-- Now's where you get into clear detail about everything your feature does. **You should still be explaining 'why' things are that way, *as* you describe what.** Be as detailed as possible. -->
 
-Globber will be given upgraded health and slightly increased speed as its ability to shoot at range is limited and will be exposed when winding up.
+Globber will be given upgraded health and slightly increased speed as its ability to shoot at range is limited compared to base as there will be no zoom and will be exposed when winding up. 
 
 Ability 1: Fire glob
 Fires the selected glob
@@ -65,14 +65,14 @@ Good alternatives:
 
 Bringing back projectile boiler - This can still be added as an alternative flavor to boiler.
 
-Bad alternatives:
+Replacing normal boiler -  Upon further thought, this caste could actually be a fun version of Base boiler with with several changes made. The acid spray nades would be replaced with gas/neuro nades instead. In that case, it is a possibility that this trapper replacement could still be implemented as a strain.
 
-"Just replace normal boiler" - Normal boiler still has it's purpose, with it's powerful abilities to stop the entire marine push.
+Bad alternatives:
 
 "Just Keep Trapper" - This is a replacement to trapper, a caste with pretty much no risk gameplay. Would result in massively conflicting purpose which would likley end up
 having one strain never be used.
 
-"Just Remove trapper" - It leaves a hole in the xeno lineup, xenos need their sieging ability. Boiler needs new flavors.
+"Just Remove trapper" - It leaves a hole in the xeno lineup, xenos need their sieging ability. Boiler needs new flavors. Boilers need challenge
 
 <!-- Provide potential alternatives to your feature, either ones that align with your design values, or ones that don't that you suspect will be suggested. If you are including the latter, make sure to explain why you didn't choose that. -->
 
