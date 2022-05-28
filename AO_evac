@@ -1,0 +1,76 @@
+<!-- It's not necessary to follow this format, as long as you provide a coherent and structured document -->
+
+## Abstract
+
+This adds AO EVAC which is a lore friendly way for marines to end long drawn out attrition rounds on a lore-friendly note, which suck for everyone playing the game.
+
+This is aimed to solve the issue of long out attritioned rounds and while mechanical efforts have gone a long way in reducing these, we still lack a way to deal with them
+once they do happen. Admin intervention like nuke/AA boiler/spamming ERTs to fix this is often not good enough or biased toward one side, a mechnical solution is best.
+<!-- An abstract is a short blurb, about a paragraph or two, succinctly describing your feature. This should mostly be "why", but can include "what". -->
+
+## Goals
+
+1. AO evac should only be avalible later in the round
+  To prevent marines from evaccing the second command things the tables are turning, restrictions must be in place to assure
+ 
+2. AO evac will also be avalible when dropship is hijacked
+
+  This is mainly to speed up the round on the xeno side after planet was won for them. Instead of being able to duel predators and other shenanigans groundside that
+  sometimes require admin intervention to continue the game, added pressure from marines evaccing will ensure the round keeps going.
+  
+
+<!-- This is a numbered list clearly detailing your goals for the feature. As per usual, this should be a mixture of both why and what. -->
+
+## Non-goals
+
+1. Mods having control over it
+  Mods should not have control over it outside of events for two reasons. For one, abuse can happen if they are playing xeno and see marines evaccing. Two, they may or may not respond to
+  the requests. Admins+ should only have the power to control this.
+
+2. Should not be made into a 'ragequit' mechanic
+  Just as seen in our sister station, TGMC, when they implemented this, there was the issue of it becoming a 'ragequit' mechanic when marines felt like they are loosing
+  We should learn from TGMC and clear restrictions should be in place to prevent this.
+
+<!-- Just like goals, but the opposite! Every feature has boundaries it won't step over. These should be written as if they start with "We will not...". -->
+
+## Content
+
+AO evac is simple. After around 2:30 round time, this option will be avalible for marines. After it is triggered, it warms up for 15-20 minutes, giving xenos an opportunity
+to strike. Both dropships and comms tower must be in the ship before evac.
+
+Upon evacuating, the round ends in a marine minor, playing a custom video like self destruct and displaying this message:
+
+Round end message
+
+" The Battle of X is over with the Falling Falcons cutting their heavy losses, and leaving in the shame of defeat! While the marines escaped destruction, they are unable
+to recover from the losses and the sector is further thrown into dismay as they now lack the power to respond to similar incidents.
+
+The xenomorphs on the other hand, finally liberate their planet, with the colonists and captured marine personnal being made into much greater beings. However, a certain doom
+looms over them, as they know if they dont attempt to propogate, their planet and they fought so hard for will be purified in nuclear fire when the human ship comes back."
+
+<!-- Now's where you get into clear detail about everything your feature does. **You should still be explaining 'why' things are that way, *as* you describe what.** Be as detailed as possible. -->
+
+## Alternatives
+
+1. Xenos tunneling out after 2:30 mechanic
+  While this achieves the main goals it can also introduce flaws.
+  For one, xenos are mechnically better at hiding due to nightvision, seeing humans through walls and abilities. This can result in unfair situations where marines pretty
+  much clear the xenos out but a handful of them go to a corner of the map, hide til its time, and win. This is unlike marines who need to operate with a FOB in order to 
+  hold for the warmup time. However, it is still an as mechanics can be implemented to limit this. ( requiring burrower digging only 1 unmovable tunnel and ARES shouting the location when trigged)
+
+2. Continued admin intervention
+  Admin intervention isnt a foolproof solution as it often results in being biased toward one side, spamming ERTs, abombing or even inaction. We all hate the funny nuke in
+  9 layer marine megafob or the funny AA boiler they spawn themselves as with 2 billion health and a wall around them that puts the great wall of china to shame.
+
+<!-- Provide potential alternatives to your feature, either ones that align with your design values, or ones that don't that you suspect will be suggested. If you are including the latter, make sure to explain why you didn't choose that. -->
+
+## Potential Changes
+
+1. Marines are megafobbing till 2:30 and not pushing
+  Buff xeno sieging power. Give them a larva boost upon triggering an AO evac. 
+  Alternatively, we can force it to count casualties too, however I want to avoid that because we all know what will happen if marines want to evac after a 3 hour round
+  and there is 1% remaining til evac is allowed.
+ 
+ 
+
+<!-- Most of the time you're not going to get the best design first try. It helps to try your best to predict what *could* go wrong, and suggest alternatives that can be taken, without sacrificing your design. -->
