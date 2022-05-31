@@ -25,7 +25,7 @@ What is required to progress on each castes varies as well.
 - General notes
 	- All castes gain a large bit of upgrade progress from capturing marines, This is to prevent them for not capping ever because
 	their task is to deal damage.
-	- All castes except Runners, Lurkers and Ravagers gain some max health when upgrading.
+	- All castes classes except Ambushers and Ranged gain some max health when upgrading.
 	- The amount of points for upgrading scales with the tier of the upgrade as well as the tier of the xenomorph, So acquiring
 	  a Primordial upgrade on a Crusher is much harder than it is on a defender.
 	- In addition to the tasks required to upgrade there is a time constraint: Xenomorphs start as Young in the beginning of the round
@@ -65,7 +65,7 @@ As a whole the "ranged" class gain reduced cooldowns and increased damage. More 
 deal acid damage when slashing in their latter upgrades.
 
 #### Tasks
-Spitters and Boilers gain upgrade points for dealing acid\burn damage while spitters gain points for stunning or knocking
+Spitters and Boilers gain upgrade points for dealing acid\burn damage while sentinels gain points for stunning or knocking
 down marines.
 
 
@@ -84,7 +84,7 @@ of points from these tasks.
 
 #### Upgrades & Tasks
 Praetorians are a bit of a wild card because of the wide array of roles they can take, Their upgrades depend on their strain:
-- Base and Warden: Same as ranged
+- Base and Warden: Same as ranged, Wardens also gain points for healing \ shielding \ rejuvenating *wounded* xenos.
 - Vanguard and Oppressor: Same as frontline
 - Dancer: Same as ambush
 
