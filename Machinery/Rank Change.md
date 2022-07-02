@@ -8,16 +8,21 @@ Add an additional tab to the identification computer (/obj/structure/machinery/c
 ## Goals
 
 1. Add a tab to the ID computer "rank".
-2. Have options to edit the rank of the ID to any rank *below* that of the logged in user.
-3. Have a CO override that allows for a handprint identification to reacquire a Major/LtCol rank on an ID.
+2. Only available for logged in users of rank O2 and up.
+3. Have options to edit the rank of the ID to E1-E7 and O1-O2.
+4. Have a CO override that allows for a handprint identification to reacquire a Major/LtCol rank on an ID and ranks outside E1-E7 and O1-O2.
+5. Have a button to print rank boards and pins.
 
 ## Non-goals
 
-1. This SHOULD NOT be used flagrantly and for no reason. I have thought about how to implement it best to avoid misuse and would definitely like to hear other's thoughts on it.
+1. This SHOULD NOT be used flagrantly and for no reason.
+2. This SHOULD NOT be a headache for staff.
 
 ## Content
 
-Pretty simple, addition of a "rank" section on the ID computer that has all of the USCM ranks to choose from but only available to modify an ID card's rank to something below the rank of the logged in user.
+Pretty simple, addition of a "rank" section on the ID computer but only available to modify an ID card's rank if the logged in user is O2 and above (so heads and up) and unless CO Overrided the only ranks available are E1-E7 and O1-O2.
+
+Secondarily new rank pins and boards will be required and can be printed here.
 
 Design-wise here are the current tabs:
 
