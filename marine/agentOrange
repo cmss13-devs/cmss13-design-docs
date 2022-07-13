@@ -1,0 +1,69 @@
+<!-- It's not necessary to follow this format, as long as you provide a coherent and structured document -->
+
+## Abstract
+
+Weedkiller a very interesting chemical that is seldom used in OT munitions. It has its own unique use, to deny xenos an area to weed for marines to push, without being destructive or blocking marines too like fire. Agent orange is meant to make weedkiller into an actual munition, and give it interesting aspects and downsides.
+
+Agent orange is a new type of munition that has a more tactical usage than the simple destruction like other munitions.
+<!-- An abstract is a short blurb, about a paragraph or two, succinctly describing your feature. This should mostly be "why", but can include "what". -->
+
+## Goals
+1. Agent orange shall deal minimal direct damage and is more of a huge nuisance to xenos
+    While it may have some sort of poison effect to xenomorphs
+2. Agent orange must, atleast initially be a net negative for both sides
+    This shown by the smoke being toxic to both sides initially
+3. Agent orange is balanced weedkiller
+<!-- This is a numbered list clearly detailing your goals for the feature. As per usual, this should be a mixture of both why and what. -->
+
+## Non-goals
+1. Be overpowered
+    It shouldn't instantly clear all xeno defenses, merely severely damaging it and destroying already weakened defenses
+2. Be spammable
+    These should not be spammable on the frontline too much, limits to CAS munitions and the amount of precursor chemicals OTs have can prevent this
+3. Too weak
+<!-- Just like goals, but the opposite! Every feature has boundaries it won't step over. These should be written as if they start with "We will not...". -->
+
+## Content
+
+Agent orange is deployed via CAS missiles, OBs and craftable OT munitions
+
+Upon detonation, it emits a smoke. This smoke is toxic to both marines and xenos
+
+The chemical will deal toxin and burn damage as it metabolizes. Upon ODing, massive lung and liver damage will apply. 
+
+Xenos in the smoke will have a "Poisoned" effect deals damage over a short time period aswell as slowing them down and preventing healing for the duration of the effect. 
+
+All xeno structures in this smoke will have damage continually applied to them except for walls, which will turn into weak walls.
+
+This smoke is short lasting and is not it's primary effect.
+
+While the smoke is spreading, a residue is left on the ground. This residue prevents weeding and slightly slows down any mobs passing through. It lasts significantly longer than the smoke. This is the primary effect of Agent Orange.
+
+This residue can be countered and cleared by acid
+
+Two chemical varients exist, A and B.
+A is the actual compound that is used in OBs and cas munitions
+B is a "watered down" economical version of it that is meant for use in nades. Uses chemical A in it's recipe but has a lot of quantity resulting from said recipe
+
+OTs will have a limited quantity of a precurser chemical (Biological Agent O) to Agent orange A mixture to allow them to mix it and have the option of mixing B for more widespread use
+
+This precurser chemical is limited and will not be purchaseable. May or may not be included in req as an expensive item to purchase with DEFCON money in the future though
+
+Mixture B's smoke is too weak to damage structures. It also uses the same residue,but lasts much shorter
+
+A few premade nades will be made in-code for furture use.
+
+<!-- Now's where you get into clear detail about everything your feature does. **You should still be explaining 'why' things are that way, *as* you describe what.** Be as detailed as possible. -->
+
+## Alternatives
+
+1. Normal weedkiller munitions
+    Normal weedkiller is simply too powerful as it has zero downsides. Agent orange is designed to have interesting downsides while also doing more
+
+<!-- Provide potential alternatives to your feature, either ones that align with your design values, or ones that don't that you suspect will be suggested. If you are including the latter, make sure to explain why you didn't choose that. -->
+
+## Potential Changes
+1. Too spammable
+    Reduce amount on the frontline by increasing price of agent orange CAS munition and lowering the amount of precursor chemical OTs spawn with
+
+<!-- Most of the time you're not going to get the best design first try. It helps to try your best to predict what *could* go wrong, and suggest alternatives that can be taken, without sacrificing your design. -->
